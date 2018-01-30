@@ -7,6 +7,8 @@ public class MainClass
  {
   System.out.println();
   System.out.println("Test");
+  System.out.println("Test2");
+  
  }
  
  public boolean function()
